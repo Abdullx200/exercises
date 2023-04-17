@@ -13,7 +13,7 @@ class Child(Parent):
 Consider the two classes above.
 
 * `Parent` has one method named `method`.
-* `Child` has two method: `method` (inherited from `Parent`) and `other_method`.
+* `Child` has two methods: `method` (inherited from `Parent`) and `other_method`.
 
 Let's try something new.
 What happens if we write this:

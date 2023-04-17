@@ -1,12 +1,12 @@
 import pytest
 
 try:
-    from student import rle_encode
+    from solution import rle_encode
 except ImportError:
     pass
 
 try:
-    from student import rle_decode
+    from solution import rle_decode
 except ImportError:
     pass
 
